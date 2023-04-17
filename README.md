@@ -1,17 +1,10 @@
-# flutter_todo_crud_api
+# Flutter Todo App From API
 
-A new Flutter project.
+A Simple TO-DO app mande in Flutter, communicating with the API: http://api.nstack.in/
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# todo_app_rest_api
+![image1](https://user-images.githubusercontent.com/104802293/232629649-32cd4d97-602d-406f-ac12-2391a9703930.png)
+![image2](https://user-images.githubusercontent.com/104802293/232629654-37e2c876-7ab2-4433-8273-6b9b8d61a127.png)
+![image3](https://user-images.githubusercontent.com/104802293/232629665-865b4f1e-2dbe-42c7-9542-abed625f7f5d.png)
+![image4](https://user-images.githubusercontent.com/104802293/232629672-cfc9feb1-44f9-4fad-8f2f-df0592e3bb04.png)
+![image5](https://user-images.githubusercontent.com/104802293/232629679-b2c866f0-703d-4c6f-b002-085284edbf11.png)
